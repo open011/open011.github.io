@@ -131,6 +131,11 @@ select {
       .row .row.collapse:after {
         clear: both; }
 
+.list {
+	margin-left:40px;
+}
+
+
 @media only screen {
   .row .column,
   .row .columns {
